@@ -1,0 +1,26 @@
+{
+  "name": "react-native-heatmap-calendar-sb",
+  "version": "1.0.0",
+  "description": "heatmap calendar component for react native",
+  "main": "./lib/src/CalendarHeatmap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhbhaskar/react-native-heatmap-calendar-sb.git"
+  },
+  "keywords": [
+    "calendar",
+    "heatmap",
+    "react-native",
+    "react-native-component",
+    "react-native-expo-component"
+  ],
+  "author": "saurabh bhaskar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhbhaskar/react-native-heatmap-calendar-sb/issues"
+  },
+  "homepage": "https://github.com/saurabhbhaskar/react-native-heatmap-calendar-sb#readme"
+}
