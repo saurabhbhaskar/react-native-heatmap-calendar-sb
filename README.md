@@ -1,5 +1,9 @@
 # React Native Heatmap Calendar SB
 
+![App Screenshot](./assets/demo.png)
+
+![Demo GIF](./assets/react-native-heatmap-calendar-sb.gif)
+
 React Native calendar heatmap component designed for visualizing daily data trends and patterns with ease. This customizable component provides an intuitive way to represent each day’s data intensity using color gradients, making it ideal for tracking patterns, activity levels, or metrics over time. Whether you’re monitoring engagement levels, productivity, or any recurring events, the calendar offers a visual overview of fluctuations across days of the month.
 
 With configurable colors, border styles, and text options, this component allows you to tailor the heatmap’s appearance to match your app's design and branding. Each day’s color shade represents the relative data level for that day, helping users quickly spot trends, high-activity days, and low periods in the calendar view. This heatmap calendar is perfect for applications that benefit from clear visual insights, enabling users to make data-driven decisions by recognizing patterns at a glance.
