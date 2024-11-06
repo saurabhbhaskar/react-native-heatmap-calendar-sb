@@ -50,8 +50,10 @@ import HeatmapCalendar from 'react-native-heatmap-calendar-sb';
 Use the component by passing in required props, such as `dailyBookingPercentages` for booking data, `colors` for color shades, and other customizable styling options:
 
 ```javascript
+const dailyBookingPercentages = [5, 20, 40, 80, 100, 0, 60, 10, 30, 50, 90, 75, 20, 45, 65, 10, 55, 25, 35, 85, 95, 15, 5, 90, 70, 0, 30, 45, 100, 60];
+
 <HeatmapCalendar
-  dailyBookingPercentages={[10, 30, 50, 80, ...]} // array of percentages per day
+  dailyBookingPercentages={dailyBookingPercentages} // array of percentages per day
   colors={['#e0f7fa', '#b2ebf2', '#80deea', '#4dd0e1', '#26c6da']} // color gradient based on percentages
   todayBackgroundColor="#FFD700" // custom color for today's background
   borderStyle={{ borderColor: '#000', borderWidth: 2 }}
