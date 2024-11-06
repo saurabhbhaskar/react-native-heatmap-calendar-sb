@@ -1,6 +1,6 @@
 {
   "name": "react-native-heatmap-calendar-sb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "heatmap calendar component for react native",
   "main": "./lib/src/CalendarHeatmap.js",
   "types": "./lib/src/index.d.ts",
